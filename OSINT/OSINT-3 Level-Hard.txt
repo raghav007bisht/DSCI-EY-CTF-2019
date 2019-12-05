@@ -1,7 +1,0 @@
-Story :
--------
-This technician leaks too much customer information in video. Find out the location before attacker.
-
-Video Link : https://www.youtube.com/watch?v=tTRge4RABw8
-
-Flag Format: DSCI_AISS{HouseNumber road name, CityShortForm AreaPin, Contry Short}
